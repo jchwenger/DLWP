@@ -12,11 +12,13 @@ Yann LeCun, [Convolutional Network Demo from 1993](https://www.youtube.com/watch
 
 DeepMind, [AlphaGo - The Movie](https://www.youtube.com/watch?v=WXuK6gekU1Y)
 
-## Bias & Fairness
+## Ethics, Politics, Resistance
 
 Timnit Gebru, [Towards transparency in AI, Methods and Challenges](https://www.youtube.com/watch?v=0GrknKMfdTM)
 
 Dan McQuillan, [Resisting AI & more](https://danmcquillan.org/)
+
+Kate Crawford, [Atlas of AI. Power, Politics, and the Planetary Costs of Artificial Intelligence](https://yalebooks.co.uk/book/9780300264630/atlas-of-ai/) ([web](https://katecrawford.net/)).
 
 Joy Buolamwini, [Stanford HAI 2019 Fall Conference - Keynote: The Coded Gaze](https://www.youtube.com/watch?v=Mk5gLInf7So)
 
