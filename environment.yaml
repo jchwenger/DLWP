@@ -1,0 +1,18 @@
+name: dlwp
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+ - python=3.12
+ - pip
+ - jupyter
+ - matplotlib
+ - unidecode
+ - pillow
+ - keras
+ - tensorflow
+ - pytorch
+ - jax
+ - kagglehub
+ - pip:
+   - keras-hub
